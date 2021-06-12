@@ -1,5 +1,3 @@
-// Code must include name: Matt Mindur
-
 package IDLList;
 
 public class IDLListTest {
