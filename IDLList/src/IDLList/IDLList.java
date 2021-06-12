@@ -1,5 +1,3 @@
-// Matt Mindur
-
 package IDLList;
 
 import java.util.ArrayList;
